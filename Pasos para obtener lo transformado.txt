@@ -1,0 +1,36 @@
+1 ejecutar:
+
+GeneracionDeURLsdeRutas_v2.py para obtener las rutas especificas, se genero el archivo "wikiloc_urls_v2.csv"
+
+2 ejecutar
+
+ObtenerInformacionDeRutas_v2.py  para obtener informacion relevante de cada ruta obtenida de "wikiloc_urls_v2.csv", se genera el archivo "datos_rutas_desde_csv_v2.csv"
+
+3 ejecutar
+
+reordenamientodeDatos_rutas.py para reordenar la informacion en columnas, se utiliza el archivo "datos_rutas_desde_csv_v2.csv" para  generar 
+el archivo "datos_rutas_transformado_5.csv"
+
+datos de las rutas: datos-rutas-Procesado-6-csv-csv.csv
+
+archivo de calificaciones : calificaciones_usuarios_v3.csv
+archivo de calificacion para reentrenamiento: nuevo_calificaciones_csv_v2.csv
+
+
+Dificultad técnica: 5 niveles
+Fácil
+Difícil
+Moderado
+Muy difícil
+Solo expertos
+
+
+Mejor epoca: Fecha de subida
+Dificultad técnica;
+mejor_epoca
+
+
+Explainable recommendations with nonnegative matrix factorization
+Volume 56, pages 3927–3955, (2023)
+
+https://link.springer.com/article/10.1007/s10462-023-10619-9
